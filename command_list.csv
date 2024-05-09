@@ -1,0 +1,138 @@
+    1  pwd
+    2  clear
+    3  documents
+    4  clear
+    5  cd users 
+    6  clear
+    7  pwd
+    8  С/USERS
+    9  clear
+   10  c\user\users\documents
+   11  clear
+   12  \\\\\\||||||\\
+   13  CLEAR
+   14  CD/user/users
+   15  clear
+   16  pwd
+   17  /c/users/user/documents
+   18  clear
+   19  whoami
+   20  clear
+   21  c/users/user/document
+   22  clear
+   23  /c/users/user/document
+   24  /c/users/user/documents
+   25  /c/users/user/документи
+   26  сдуфк
+   27  clear
+   28  clear
+   29  mkdir goitff
+   30  clear
+   31  mkdir test folder
+   32  cd test folder
+   33  /c/users/user/documents/mkdir testttt
+   34  /c/користувачі/user/документи
+   35  сдуфк
+   36  clear
+   37  /c/users/user/apple
+   38  /c/users/user/folder
+   39  mkdir rert
+   40  clear
+   41  date
+   42  whoami
+   43  -h
+   44  clear
+   45  - h
+   46  clear
+   47  ls - i
+   48  ls -l
+   49  clear
+   50  mkdir git_goit
+   51  cd git_goit
+   52  git config --global ARTEM0MARTUNCYK users
+   53  git config --user.name ARTEM0MARTUNCYK
+   54  git config -- get user.email globex928@gmail.com
+   55  global user.email globex928@gmail.com
+   56  clear
+   57  git clone https://github.com/ARTEM0MARTUNCYK/test-repo-1 
+   58  ls -l
+   59  ls-la
+   60  git stats
+   61  git checkout - b test_branch
+   62  gitstatus
+   63  git status
+   64  clear
+   65  c ..//
+   66  c ../
+   67  c ..//
+   68  clear
+   69  /c/users/user/document
+   70  clear
+   71  mkdir git
+   72  cd git
+   73  ls -l
+   74   git config --global user.name ARTEM0MARTUNCYK
+   75  git config --get user.name
+   76  git config --global user.email globex928@gmail.com
+   77  clear
+   78   git clone https://github.com/ARTEM0MARTUNCYK/HW_10.git
+   79  ls -l
+   80  cd HW_10/
+   81  ls -l
+   82  touch text_ignore.txt
+   83  ls -la
+   84  git status
+   85  nano gitignore
+   86  git status
+   87  git status
+   88  clear
+   89  nano gitignore
+   90  git status
+   91  git add.
+   92  git status
+   93  git add .
+   94  git commit -m
+   95  git commit
+   96  cd git/
+   97  git config --global user.name ARTEM0MARTUNCYK
+   98  git config --global user.email globex928@gmail.com
+   99  git clone https://github.com/ARTEM0MARTUNCYK/HW_10.git
+  100  cd HW_10/
+  101  touch text_ignore.txt
+  102  git status
+  103   touch text_igni
+  104  touch text_ignore.txt
+  105  git status
+  106  ls -l
+  107   git add .
+  108  git commit -m "changer gitignore"
+  109  touch main_test.txt
+  110  git add .
+  111  git commit -m "gitignore"
+  112  clear
+  113  touch maine_test.txt
+  114  git add .
+  115  commit -m "added new file"
+  116  git commit -m "added new file"
+  117  git checkout -b develop
+  118  touch develop_test.txt
+  119  git add .
+  120  git commit -m "added new file"
+  121  git status
+  122  git add .
+  123  git commit -m "added new file"
+  124  git checkout main
+  125  git branch
+  126  merge develop
+  127  git branch
+  128  git status
+  129  git log
+  130  cd git/
+  131  cd HW_10
+  132  git branch
+  133  git log
+  134  git checkout develop
+  135  git log
+  136  git merge main
+  137  git log
+  138  history > command_list.csv
